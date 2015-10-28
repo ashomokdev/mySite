@@ -21,6 +21,7 @@ $(document).ready(function () {
                 subject: 'hi',
                 message: msg
             });
+            
             $('#ok').show();
             $("#text_area").val('');
         }
@@ -60,5 +61,6 @@ $(document).ready(function () {
             '&ui=1';
         window.location.href = str;
     }
-    
+
+    $('#myInputId').trigger(jQuery.Event('keypress', {which: 13}));
 });
