@@ -1,11 +1,13 @@
 <!doctype html>
 <html class="no-js" lang="">
-<head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
-    <title>Iuliia Ashomok</title>
 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" type="text/css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="description" content=""/>
+    <meta name="keywords" content=""/>
+    <title>Iuliia Ashomok</title>
 
     <!-- Place favicon.ico in the root directory -->
 
@@ -13,16 +15,17 @@
 
     <script src="js/skel.min.js"></script>
     <script src="js/init.js"></script>
+    <script src="js/main.js"></script>
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.13.3/react.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.13.3/JSXTransformer.js"></script>
+    <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>-->
+
+
     <noscript>
-        <link rel="stylesheet" href="css/skel.css"/>
         <link rel="stylesheet" href="css/style.css"/>
         <link rel="stylesheet" href="css/style-wide.css"/>
-        <link rel="stylesheet" href="css/style-noscript.css"/>
         <link rel="stylesheet" href="css/main.css">
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <!--<link rel="stylesheet" href="css/font-awesome.min.css">-->
-        <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">-->
     </noscript>
 
 </head>
@@ -50,7 +53,7 @@
                     <li><a href="http://ua.linkedin.com/in/iuliiaashomok" class="icon fa-linkedin"><span
                         class="label">Linkedin</span></a></li>
                     <!--TODO-->
-                    <li><a href="mailto:ashomokdev@gmail.com" class="icon fa-envelope-o"><span
+                    <li><a href="mailto:ashomokdev@gmail.com" class="icon fa-envelope-o" id ="mailMe"><span
                         class="label">Email</span></a></li>
                 </ul>
             </nav>
@@ -58,28 +61,75 @@
     </div>
 </div>
 <div id="container">
-<div class="row">
-    <div class="col-md-6">.col-md-6</div>
-    <div class="col-md-6">.col-md-6</div>
-</div>
-    <div class="row">
-        <div class="col-md-6">.col-md-6</div>
-        <div class="col-md-6">.col-md-6</div>
-    </div><div class="row">
-    <div class="col-md-6">.col-md-6</div>
-    <div class="col-md-6">.col-md-6</div>
-</div>
+
+    <section class="closing-section row-fluid panel light">
+        <div class="col-md-6 col-md-offset-3 panel">
+            <div class="block">
+                <div id="writeMe"></div>
+                <form>
+
+                    <label class="label-error" for="text_area" id = "empty_text_area_warning">Text area is empty</label>
+                    <label class="label-ok" for="text_area" id = "ok">Your message have been sent</label>
+                    <textarea id="text_area" class="form-control" rows="5"></textarea>
+
+                    <div class="submit_div">
+                        <input type="submit" id="send_btn" value="Send"
+                                                class="submit_btn btn btn-primary btn-lg"/>
+                    </div>
+                </form>
+                <!--<a class="btn closing-cta center-block span4" href="https://www.paypal.com/us/signup/account">Sign Up for Free</a>-->
+            </div>
+        </div>
+    </section>
+
+    <div id="content"></div>
+    <div id="content2"></div>
 </div>
 
-<!--<script>window.jQuery || document.write('<script src="js/vendor/jquery-{{JQUERY_VERSION}}.min.js"><\/script>')</script>-->
-<script src="js/plugins.js"></script>
+<script type="text/jsx">
+    React.render(
+        <h1>Write me</h1>,
+        document.getElementById('writeMe')
+    );
+</script>
 
-<script src="build/react.js"></script>
-<script src="build/react-dom.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.23/browser.min.js"></script>
+<script type="text/jsx">
+    var BuckysComponent = React.createClass({
+        render: function () {
+            return (
+                <h2>{this.props.user} likes to eat {this.props.food}</h2>
+            );
+        }
+    });
 
-<div id="example"></div>
-<script type="text/babel" src="js/main.js"></script>
+    React.render(
+        <div>
+            <BuckysComponent user="Bucky" food="Bacon"/>
+            <BuckysComponent user="Sally" food="Tuna"/>
+            <BuckysComponent user="Emily" food="Beef"/>
+            <BuckysComponent user="Tony" food="Ham"/>
+        </div>,
+        document.getElementById('content')
+    );
+
+</script>
+
+
+<script type="text/jsx">
+    var CommentBox = React.createClass({
+        render: function () {
+            return (
+                <div className="commentBox">
+                    Hello, world! I am a CommentBox.
+                </div>
+            );
+        }
+    });
+    React.render(
+        <CommentBox />,
+        document.getElementById('content2')
+    );
+</script>
 
 
 <!--&lt;!&ndash; Google Analytics: change UA-XXXXX-X to be your site's ID. &ndash;&gt;-->
