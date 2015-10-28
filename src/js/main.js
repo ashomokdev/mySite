@@ -15,11 +15,16 @@ $(document).ready(function () {
             $('#empty_text_area_warning').show();
         }
         else {
+            var msg = $("#text_area").val().toString();
+            sendGmail({
+                to: 'bieliaievays@gmail.com',
+                subject: 'hi',
+                message: msg
+            });
             $('#ok').show();
             $("#text_area").val('');
         }
     });
-
 
     $("#text_area").on('change keyup paste', function () {
         if (!$("#text_area").val()) {
@@ -33,8 +38,6 @@ $(document).ready(function () {
 
     // This is a functions that scrolls to #{blah}link
     function goToByScroll(id){
-        // Remove "link" from the ID
-        id = id.replace("link", "");
         // Scroll
         $('html,body').animate({
                 scrollTop: $("#"+id).offset().top},
@@ -49,4 +52,13 @@ $(document).ready(function () {
     });
 
 
+     function sendGmail(opts){
+        var str = 'http://mail.google.com/mail/?view=cm&fs=1'+
+            '&to=' + opts.to +
+            '&su=' + opts.subject +
+            '&body=' + opts.message +
+            '&ui=1';
+        window.location.href = str;
+    }
+    
 });
