@@ -675,11 +675,6 @@ a:hover {
     box-shadow: none;
 }
 
-button {
-    margin-top: 3%;
-    width: 30%;
-    text-align: center;
-}
 
 textarea {
     resize: none;
@@ -702,6 +697,16 @@ label
     font-weight: 400;
     text-align: left;
 }
+.oneLine
+{
+    text-align: left;
+    position:relative;
+}
+label.big
+{
+    font-size: large;
+    font-weight: 600;
+}
 
 label.label-error
 {
@@ -719,10 +724,14 @@ label.label-ok
     text-align: center;
 }
 
+.right
+{
+    text-align: right;
+}
+
 .submit_btn
 {
     width: 20%;
-    text-align: center;
 }
 
 
