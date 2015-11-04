@@ -673,6 +673,7 @@ a:hover {
 .panel {
     webkit-box-shadow: none;
     box-shadow: none;
+    float: none;
 }
 
 
@@ -733,6 +734,23 @@ label.label-ok
 {
     width: 20%;
 }
+
+#bottomPanel
+{
+    background-color: black;
+    opacity: 0.5;
+    text-align: right;
+    margin-bottom: 0;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    right: 0;
+    clear: both;
+}
+
+
+
+
 
 
 
