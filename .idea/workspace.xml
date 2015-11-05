@@ -2,9 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c0df943-cb15-4749-b092-42ccd427e4e0" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\404.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\crossdomain.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\css\main.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\css\normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\doc\TOC.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\doc\css.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\doc\extend.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\doc\faq.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\doc\html.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\doc\js.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\doc\misc.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\doc\usage.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\humans.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\img\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\js\main.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\js\plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\js\vendor\jquery-1.11.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\js\vendor\modernizr-2.8.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\tile-wide.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\dist\tile.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\src\apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\src\build\react-dom.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\src\build\react-dom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\src\build\react-with-addons.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\src\build\react-with-addons.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\src\build\react.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\src\build\react.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\src\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\src\css\font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\src\css\footer.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\src\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\src\fonts\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\src\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\src\humans.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\src\robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\src\tile-wide.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Iuliia\WebstormProjects\HTML5Pjc\src\tile.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blog.html" afterPath="$PROJECT_DIR$/src/blog.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/style.css" afterPath="$PROJECT_DIR$/src/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HTML5Pjc.iws" />
@@ -26,11 +73,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="blog.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.807693">
-              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            <state vertical-scroll-proportion="1.4670138">
+              <caret line="64" column="7" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -39,52 +86,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.692307">
-              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            <state vertical-scroll-proportion="-9.807693">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
               <folding>
-                <marker date="1446739409882" expanded="true" signature="1095:1256" placeholder="..." />
-                <marker date="1446739409882" expanded="true" signature="1157:1224" placeholder="..." />
+                <marker date="1446739950086" expanded="true" signature="1044:1205" placeholder="..." />
+                <marker date="1446739950086" expanded="true" signature="1106:1173" placeholder="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/css/footer.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6777409">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/blog.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="105" column="1" selection-start-line="105" selection-start-column="1" selection-end-line="105" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/reactjs/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -120,9 +127,10 @@
         <option value="$PROJECT_DIR$/blog.html" />
         <option value="$PROJECT_DIR$/src/css/blog.css" />
         <option value="$PROJECT_DIR$/src/js/reactjs/main.js" />
-        <option value="$PROJECT_DIR$/src/blog.html" />
-        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/css/style.css" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/blog.html" />
       </list>
     </option>
   </component>
@@ -219,64 +227,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5Pjc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5Pjc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reactjs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5Pjc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5Pjc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fonts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5Pjc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HTML5Pjc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -369,14 +319,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24743778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25669292" sideWeight="0.084919475" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.007874016" sideWeight="0.91508055" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.007874016" sideWeight="0.91508055" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -422,8 +372,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
           <folding>
-            <marker date="1446739409882" expanded="true" signature="1095:1256" placeholder="..." />
-            <marker date="1446739409882" expanded="true" signature="1157:1224" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1044:1205" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1106:1173" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -449,8 +399,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1446739409882" expanded="true" signature="1095:1256" placeholder="..." />
-            <marker date="1446739409882" expanded="true" signature="1157:1224" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1044:1205" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1106:1173" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -460,8 +410,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
           <folding>
-            <marker date="1446739409882" expanded="true" signature="1095:1256" placeholder="..." />
-            <marker date="1446739409882" expanded="true" signature="1157:1224" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1044:1205" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1106:1173" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -478,8 +428,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1446739409882" expanded="true" signature="1095:1256" placeholder="..." />
-            <marker date="1446739409882" expanded="true" signature="1157:1224" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1044:1205" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1106:1173" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -489,8 +439,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1446739409882" expanded="true" signature="1095:1256" placeholder="..." />
-            <marker date="1446739409882" expanded="true" signature="1157:1224" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1044:1205" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1106:1173" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -515,8 +465,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
           <folding>
-            <marker date="1446739409882" expanded="true" signature="1095:1256" placeholder="..." />
-            <marker date="1446739409882" expanded="true" signature="1157:1224" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1044:1205" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1106:1173" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -541,8 +491,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1446739409882" expanded="true" signature="1095:1256" placeholder="..." />
-            <marker date="1446739409882" expanded="true" signature="1157:1224" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1044:1205" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1106:1173" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -559,8 +509,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1446739409882" expanded="true" signature="1095:1256" placeholder="..." />
-            <marker date="1446739409882" expanded="true" signature="1157:1224" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1044:1205" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1106:1173" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -577,8 +527,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1446739409882" expanded="true" signature="1095:1256" placeholder="..." />
-            <marker date="1446739409882" expanded="true" signature="1157:1224" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1044:1205" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1106:1173" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -595,8 +545,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1446739409882" expanded="true" signature="1095:1256" placeholder="..." />
-            <marker date="1446739409882" expanded="true" signature="1157:1224" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1044:1205" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1106:1173" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -613,8 +563,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1446739409882" expanded="true" signature="1095:1256" placeholder="..." />
-            <marker date="1446739409882" expanded="true" signature="1157:1224" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1044:1205" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1106:1173" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -647,51 +597,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/build/react.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/apple-touch-icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bundle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.9279437">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/robots.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/css/style-normal.css">
@@ -720,13 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/crossdomain.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -741,32 +644,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/style-mobile.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/init.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.080267556">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59699">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -777,33 +658,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/blog.css">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="105" column="1" selection-start-line="105" selection-start-column="1" selection-end-line="105" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.08900524">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/file_content.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.9318937">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/reactjs/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-0.016611295">
           <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blog.html">
+    <entry file="file://$PROJECT_DIR$/src/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.73421925">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11295681">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/blog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.9651163">
+          <caret line="105" column="1" selection-start-line="105" selection-start-column="1" selection-end-line="105" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.39534885">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
@@ -811,19 +727,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.692307">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        <state vertical-scroll-proportion="-9.807693">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
           <folding>
-            <marker date="1446739409882" expanded="true" signature="1095:1256" placeholder="..." />
-            <marker date="1446739409882" expanded="true" signature="1157:1224" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1044:1205" placeholder="..." />
+            <marker date="1446739950086" expanded="true" signature="1106:1173" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/footer.css">
+    <entry file="file://$PROJECT_DIR$/src/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6777409">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state vertical-scroll-proportion="1.4670138">
+          <caret line="64" column="7" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
           <folding />
         </state>
       </provider>
