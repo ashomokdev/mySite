@@ -102,7 +102,7 @@ a {
     border-radius: 0.25em;
     line-height: 2.1;
     font-size: 13.3px;
-    background-color: #5bc0de;
+    margin-left: 1%;
 }
 
 #mainText
@@ -110,8 +110,9 @@ a {
     margin-bottom: 6%;
 }
 
-#tags
+.tags
 {
     margin-bottom: 3%;
+    box-sizing: border-box;
 }
 
